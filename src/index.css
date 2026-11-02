@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom resets... */
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+button, input, select, textarea { font: inherit; }
+a { cursor: pointer; }
